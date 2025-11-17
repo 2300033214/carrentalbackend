@@ -1,0 +1,17 @@
+var a = 10.6
+console.log(Math.ceil(a))
+console.log(Math.floor(a))
+console.log(Math.round(a))
+console.log(Math.floor(Math.random()*11))
+console.log(Math.min(20,50,10))
+console.log(Math.max(20,50,10))
+console.log(Math.abs(-5))
+console.log(Math.abs("abc"))
+console.log(Math.abs(null)) 
+console.log(Math.pow(5,3))
+console.log(Math.log10(200))
+
+var s=newSet()
+s.add(10)
+s.add(20)
+s.add(10)
